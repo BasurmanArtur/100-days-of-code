@@ -8,7 +8,15 @@
 
 ### Day 2: March 7, 2020
 
-**Today's Progress**: Finished "Combining Data with Pandas" from the "Data Cleaning and Analysis" course on Dataquest.
+**Today's Progress**: Finished "Combining Data With Pandas" from the "Data Cleaning and Analysis" course on Dataquest.
 
-**Thoughts:** I understood almost everything, but was quite tired today, so I need to refresh my memory tomorrow. I'd like to explore some real-life data with the methods, I've learnt today. 
+**Thoughts:** I understood almost everything, but was quite tired today, so I need to refresh my memory tomorrow. I'd like to explore some real-life data with the methods, I've learnt today.
+
+
+### Day 3: March 8, 2020
+
+**Today's Progress**: Finished "Transforming Data With Pandas" from the "Data Cleaning and Analysis" course on Dataquest. Also learn the pivot function by experimenting with the arguments, it wasn't that diffucult as it'd seemed initially.
+
+**Thoughts:** I was happy to understand how pivot tables are powerful, I'm also very proud of myself for understanding how to use the pivot function. Have to apply this knowledge to some other dataset to practice a bit. 
+
 
