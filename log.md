@@ -20,3 +20,8 @@
 **Thoughts:** I was happy to understand how pivot tables are powerful, I'm also very proud of myself for understanding how to use the pivot function. Have to apply this knowledge to some other dataset to practice a bit. 
 
 
+### Day 4: March 9, 2020
+
+**Today's Progress**: Finished "Working With Strings In Pandas" from the "Data Cleaning and Analysis" course on Dataquest. Regex are quite difficult to undestand. 
+
+**Thoughts:** I need to practice much more and try to understand what the docs say! Also have to read more carefully what I have to do in the exercise. I'm very happy that I can stay on track with the challegne, it's actually encouraging to write my thoughts on Twitter and Github.
