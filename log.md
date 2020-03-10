@@ -25,3 +25,10 @@
 **Today's Progress**: Finished "Working With Strings In Pandas" from the "Data Cleaning and Analysis" course on Dataquest. Regex are quite difficult to undestand. 
 
 **Thoughts:** I need to practice much more and try to understand what the docs say! Also have to read more carefully what I have to do in the exercise. I'm very happy that I can stay on track with the challegne, it's actually encouraging to write my thoughts on Twitter and Github.
+
+
+### Day 5: March 10, 2020
+
+**Today's Progress**: I'm on half way of "Working With Missing And Duplicate Data" from the "Data Cleaning and Analysis" course on Dataquest.
+
+**Thoughts:** I had to split my 1 hour in two parts today. The exercises weren't diffucult but I would like to figure out another method to fill missing values from another dataset.
