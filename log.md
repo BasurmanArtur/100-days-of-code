@@ -32,3 +32,10 @@
 **Today's Progress**: I'm on half way of "Working With Missing And Duplicate Data" from the "Data Cleaning and Analysis" course on Dataquest.
 
 **Thoughts:** I had to split my 1 hour in two parts today. The exercises weren't diffucult but I would like to figure out another method to fill missing values from another dataset.
+
+
+### Day 6: March 11, 2020
+
+**Today's Progress**: I did some practice exercises on Dataquest.
+
+**Thoughts:** I had to revise some base concepts, because I studied them some months ago, so it was very useful to get to basics.
