@@ -39,3 +39,9 @@
 **Today's Progress**: I did some practice exercises on Dataquest.
 
 **Thoughts:** I had to revise some base concepts, because I studied them some months ago, so it was very useful to get to basics.
+
+### Day 7: March 11, 2020
+
+**Today's Progress**: I continued with my Facebook ADs project. Today I cleaned a bit the code, but got some problems with Google API access. Ready to resolve everything tomorrow. 
+
+**Thoughts:** I'm determined to finish the project in the next few days. Finally I will have all my data automatically uploaded on Google Sheets.
