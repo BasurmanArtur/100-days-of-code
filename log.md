@@ -51,3 +51,10 @@
 **Today's Progress**: I started to analyse the internship dataset.
 
 **Thoughts:** It's incredible how things I studied turn to be useful! I had to apply a lot of cleaning and exploratory techniques. I will continue to learn much more.
+
+
+### Day 9: March 15, 2020
+
+**Today's Progress**: I continued to explore the dataset. Got some problems while transforming the coordinates columns in float values, need more investigaiton. Also have to understand better Geopandas.
+
+**Thoughts:** The more I explore the dataset, the more I learn. Working on a project is actually very useful. But I got distracted by some tutorials that I didn't need at the moment. 
