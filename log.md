@@ -40,8 +40,14 @@
 
 **Thoughts:** I had to revise some base concepts, because I studied them some months ago, so it was very useful to get to basics.
 
-### Day 7: March 11, 2020
+### Day 7: March 12, 2020
 
 **Today's Progress**: I continued with my Facebook ADs project. Today I cleaned a bit the code, but got some problems with Google API access. Ready to resolve everything tomorrow. 
 
 **Thoughts:** I'm determined to finish the project in the next few days. Finally I will have all my data automatically uploaded on Google Sheets.
+
+### Day 8: March 14, 2020
+
+**Today's Progress**: I started to analyse the internship dataset.
+
+**Thoughts:** It's incredible how things I studied turn to be useful! I had to apply a lot of cleaning and exploratory techniques. I will continue to learn much more.
