@@ -58,3 +58,11 @@
 **Today's Progress**: I continued to explore the dataset. Got some problems while transforming the coordinates columns in float values, need more investigaiton. Also have to understand better Geopandas.
 
 **Thoughts:** The more I explore the dataset, the more I learn. Working on a project is actually very useful. But I got distracted by some tutorials that I didn't need at the moment. 
+
+
+
+### Day 10: March 16, 2020
+
+**Today's Progress**: I continued to explore the dataset. I still can't convert the coordinates in an appropriate format.
+
+**Thoughts:** I have to ask on StackOverflow how to converts the coordinate to floats!
