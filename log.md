@@ -66,3 +66,10 @@
 **Today's Progress**: I continued to explore the dataset. I still can't convert the coordinates in an appropriate format.
 
 **Thoughts:** I have to ask on StackOverflow how to converts the coordinate to floats!
+
+
+### Day 11: March 17, 2020
+
+**Today's Progress**: I decided to revise and finish "Working With Missing And Duplicate Data" on Dataquest.
+
+**Thoughts:** I start to learn a lot of in-built pandas methods to accomplish the word, I'd done manually before. It feels exciting!
