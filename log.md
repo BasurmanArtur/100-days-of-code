@@ -73,3 +73,9 @@
 **Today's Progress**: I decided to revise and finish "Working With Missing And Duplicate Data" on Dataquest.
 
 **Thoughts:** I start to learn a lot of in-built pandas methods to accomplish the word, I'd done manually before. It feels exciting!
+
+### Day 12: March 18, 2020
+
+**Today's Progress**: I finished "Working With Missing And Duplicate Data" on Dataquest and actually restarted my internship project with new instruments I have now.
+
+**Thoughts:** I'm very excited about data analysis. I'm ready to tackle every problem I will have and to learn even more data analysis tecniques!
