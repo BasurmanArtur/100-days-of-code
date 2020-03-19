@@ -79,3 +79,10 @@
 **Today's Progress**: I finished "Working With Missing And Duplicate Data" on Dataquest and actually restarted my internship project with new instruments I have now.
 
 **Thoughts:** I'm very excited about data analysis. I'm ready to tackle every problem I will have and to learn even more data analysis tecniques!
+
+
+### Day 13: March 19, 2020
+
+**Today's Progress**: I continue my internship project. I got a lot of problems while cleaning the dataset (especially converting numeric strings to floats), so tomorrow I will have to start over.
+**Thoughts:** That's was quite difficult, I cannot undestand where I'm making a mistake, so tomorrow I'm ready to find it out. 
+
