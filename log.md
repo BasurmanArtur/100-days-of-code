@@ -84,10 +84,12 @@
 ### Day 13: March 19, 2020
 
 **Today's Progress**: I continue my internship project. I got a lot of problems while cleaning the dataset (especially converting numeric strings to floats), so tomorrow I will have to start over.
+
 **Thoughts:** That's was quite difficult, I cannot undestand where I'm making a mistake, so tomorrow I'm ready to find it out. 
 
 
 ### Day 14: March 20, 2020
 
 **Today's Progress**: Today I continued to work with the internship dataset, trying to convert coordinates in float numbers, but didn't succeed for God knows which reason.
+
 **Thoughts:** That's tough, the code that did work some days ago today doesn't work at all. Have to figure it out. 
