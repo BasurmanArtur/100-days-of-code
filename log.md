@@ -93,3 +93,10 @@
 **Today's Progress**: Today I continued to work with the internship dataset, trying to convert coordinates in float numbers, but didn't succeed for God knows which reason.
 
 **Thoughts:** That's tough, the code that did work some days ago today doesn't work at all. Have to figure it out. 
+
+
+### Day 15: March 21, 2020
+
+**Today's Progress**: Today i finally was able to convert coordinate in float numbers. The problem was with the  ```regex=True ``` in  ```replace()``` function. Then I converted the coordinates in Point of geopandas and plotted all coordinates on Asia-Europe map.
+
+**Thoughts:** It was a great pleasure after days of trying to finally did what I was expecting!
