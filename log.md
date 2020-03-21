@@ -97,6 +97,6 @@
 
 ### Day 15: March 21, 2020
 
-**Today's Progress**: Today I finally was able to convert coordinate in float numbers. The problem was with the  ```regex=True ``` in  ```replace()``` function. Then I converted the coordinates in Point of geopandas and plotted all coordinates on Asia-Europe map.
+**Today's Progress**: Today I finally was able to convert coordinate in float numbers. The problem was with the  ```regex=False ``` in  ```replace()``` function. Then I converted the coordinates in Point of geopandas and plotted all coordinates on Asia-Europe map.
 
 **Thoughts:** It was a great pleasure after days of trying to finally did what I was expecting!
