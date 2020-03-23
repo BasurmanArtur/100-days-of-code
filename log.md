@@ -104,6 +104,6 @@
 
 ### Day 16: March 22, 2020
 
-**Today's Progress**: Today I converted all coordinates in ```shapely.Point``` objects and plotted them on an Asia-Europe map. Also I calculate an arbitrary distance from a point to each of coordinates.   
+**Today's Progress**: Today I converted all coordinates in ```shapely.Point``` objects and plotted them on an Asia-Europe map. Also I calculated an arbitrary distance from a point to each of coordinates.   
 
 **Thoughts:** Days of work have finally got me to a satisfying result. Now it's time to further analyse the dataset and try to find any patterns in human mighrations. 
