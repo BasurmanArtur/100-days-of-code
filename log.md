@@ -107,3 +107,9 @@
 **Today's Progress**: Today I converted all coordinates in ```shapely.Point``` objects and plotted them on an Asia-Europe map. Also I calculated an arbitrary distance from a point to each of coordinates.   
 
 **Thoughts:** Days of work have finally got me to a satisfying result. Now it's time to further analyse the dataset and try to find any patterns in human mighrations. 
+
+### Day 17: March 23, 2020
+
+**Today's Progress**: Today I tried to create a plot that puts in relation average age of human samples and distance from an arbitrary point on the map. Found out that there's no analogue of ```geom_smooth()``` from R in Python. So tomorrow I will download ggplot for Python.
+
+**Thoughts:** More I dive into coding more I understand how much more I have to learn and understand. But I'm excited to continue my path!
