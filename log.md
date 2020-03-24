@@ -113,3 +113,9 @@
 **Today's Progress**: Today I tried to create a plot that puts in relation average age of human samples and distance from an arbitrary point on the map. Found out that there's no analogue of ```geom_smooth()``` from R in Python. So tomorrow I will download ggplot for Python.
 
 **Thoughts:** More I dive into coding more I understand how much more I have to learn and understand. But I'm excited to continue my path!
+
+### Day 18: March 24, 2020
+
+**Today's Progress**: I found out that ggplot is only for Python 3.6, but I also discovered that I can do a lot of stuff I want with Seaborn. I also read some interesting tutorials on how to work with Excel tables.
+
+**Thoughts:** I'd like to learn further about Seaborn, it seems to be a powerful data visualization instrument. 
