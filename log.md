@@ -119,3 +119,10 @@
 **Today's Progress**: I found out that ggplot is only for Python 3.6, but I also discovered that I can do a lot of stuff I want with Seaborn. I also read some interesting tutorials on how to work with Excel tables.
 
 **Thoughts:** I'd like to learn further about Seaborn, it seems to be a powerful data visualization instrument. 
+
+
+### Day 19: March 25, 2020
+
+**Today's Progress**: Today I decided to rest a bit from the internship project and commited myself to doing a small WhatsApp chats analyzer. Got some interesting insights in one of my group. I used [this article](https://towardsdatascience.com/build-your-own-whatsapp-chat-analyzer-9590acca9014) to actually copy-paste the code, but also trying to understand what it means. I was able to understand everything, even though it wasn't easy.
+
+**Thoughts:** I have to be more independent while building my projects.
