@@ -126,3 +126,10 @@
 **Today's Progress**: Today I decided to rest a bit from the internship project and commited myself to doing a small WhatsApp chats analyzer. Got some interesting insights in one of my group. I used [this article](https://towardsdatascience.com/build-your-own-whatsapp-chat-analyzer-9590acca9014) to actually copy-paste the code, but also trying to understand what it means. I was able to understand everything, even though it wasn't easy.
 
 **Thoughts:** I have to be more independent while building my projects.
+
+
+### Day 20: March 26, 2020
+
+**Today's Progress**: Today I revised "my" project and understood it a bit better. Also I tried to use regex to extract all emojis. Somehow it worked, but I'd like to count them.
+
+**Thoughts:** From tomorrow I'll try to write my own functions, maybe doing a guided project on Dataquest.
