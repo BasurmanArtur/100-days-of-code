@@ -133,3 +133,10 @@
 **Today's Progress**: Today I revised "my" project and understood it a bit better. Also I tried to use regex to extract all emojis. Somehow it worked, but I'd like to count them.
 
 **Thoughts:** From tomorrow I'll try to write my own functions, maybe doing a guided project on Dataquest.
+
+
+### Day 21: March 27, 2020
+
+**Today's Progress**: Since due to the coronavirus, it's not clear if the internship will continue I decided to begin a guided project on Dataquest. Today I did some initial exploration of the datasets.
+
+**Thoughts:** I'm determined to ask to the initial questions about the dataset and also to write my observations in clear way.
