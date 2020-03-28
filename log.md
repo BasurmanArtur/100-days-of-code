@@ -140,3 +140,9 @@
 **Today's Progress**: Since due to the coronavirus, it's not clear if the internship will continue I decided to begin a guided project on Dataquest. Today I did some initial exploration of the datasets.
 
 **Thoughts:** I'm determined to ask to the initial questions about the dataset and also to write my observations in clear way.
+
+### Day 22: March 28, 2020
+
+**Today's Progress**: Today I did some data exploration of exit surveys of Australian TAFE e DETE on Dataquest. These datasets present similar data, but require a lot of data cleaning. I'm ready to start on working!
+
+**Thoughts:** I'm excited about starting a real data science project!
