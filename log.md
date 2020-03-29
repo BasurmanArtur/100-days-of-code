@@ -146,3 +146,9 @@
 **Today's Progress**: Today I did some data exploration of exit surveys of Australian TAFE e DETE on Dataquest. These datasets present similar data, but require a lot of data cleaning. I'm ready to start on working!
 
 **Thoughts:** I'm excited about starting a real data science project!
+
+### Day 24: March 29, 2020
+
+**Today's Progress**: Today I continued the data exploration and made some interesting observations. Unfortunately I wasn't attentive enough to notice some missing data in two columns and had to read it from the Dataquest tutorial.
+
+**Thoughts:** I have to pay much more attention while exploring the data to avoid unwanted mistakes during the analysis.
