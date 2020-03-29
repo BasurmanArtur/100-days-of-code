@@ -147,7 +147,7 @@
 
 **Thoughts:** I'm excited about starting a real data science project!
 
-### Day 24: March 29, 2020
+### Day 23: March 29, 2020
 
 **Today's Progress**: Today I continued the data exploration and made some interesting observations. Unfortunately I wasn't attentive enough to notice some missing data in two columns and had to read it from the Dataquest tutorial.
 
