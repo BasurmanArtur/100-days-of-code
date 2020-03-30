@@ -152,3 +152,10 @@
 **Today's Progress**: Today I continued the data exploration and made some interesting observations. Unfortunately I wasn't attentive enough to notice some missing data in two columns and had to read it from the Dataquest tutorial.
 
 **Thoughts:** I have to pay much more attention while exploring the data to avoid unwanted mistakes during the analysis.
+
+
+### Day 24: March 30, 2020
+
+**Today's Progress**: Today I finished the initial data explorarion and started to clean the data.
+
+**Thoughts:** I didn't do that much today, but I understand that is one of the most important parts of any data analysis so I have to master data cleaning!
