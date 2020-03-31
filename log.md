@@ -159,3 +159,10 @@
 **Today's Progress**: Today I finished the initial data explorarion and started to clean the data.
 
 **Thoughts:** I didn't do that much today, but I understand that is one of the most important parts of any data analysis so I have to master data cleaning!
+
+
+### Day 25: March 31, 2020
+
+**Today's Progress**: Today I removed the unnecessary columns and renamed some columns to standartize both datasets. I also did some easy exercises to review basic concepts of Python like lists.
+
+**Thoughts:** 1/4 of way passed, the time runs so fast!
