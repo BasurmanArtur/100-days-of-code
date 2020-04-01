@@ -166,3 +166,10 @@
 **Today's Progress**: Today I removed the unnecessary columns and renamed some columns to standartize both datasets. I also did some easy exercises to review basic concepts of Python like lists.
 
 **Thoughts:** 1/4 of way passed, the time runs so fast!
+
+
+### Day 26: April 1, 2020
+
+**Today's Progress**: Today I continued to clean the datasets. Had to use some regex to extract some data, but didn't find out how to assign the data back to pandas `DataFrame`.
+
+**Thoughts:** I slowly proceed, learning a lot of new things. Surely the hardest task is to search for the information I need.
