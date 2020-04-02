@@ -173,3 +173,9 @@
 **Today's Progress**: Today I continued to clean the datasets. Had to use regex to extract some data, but didn't find out how to assign it back to pandas `DataFrame`.
 
 **Thoughts:** I slowly proceed, learning a lot of new things. Surely the hardest task is to search for the information I need.
+
+### Day 27 April 2, 2020
+
+**Today's Progress**: Today I did exercises on frequency tables on DataQuest.
+
+**Thoughts:** How easily they can be made with `group_by()` from pandas! I didn't come up with a solution using just for loops.
