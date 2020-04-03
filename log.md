@@ -179,3 +179,9 @@
 **Today's Progress**: Today I did exercises on frequency tables on DataQuest.
 
 **Thoughts:** How easily they can be made with `group_by()` from pandas! I didn't come up with a solution using just for loops.
+
+### Day 28 April 3, 2020
+
+**Today's Progress**: Today I had quite a busy day, so I decided to continue with the exercises. Come up with a solution to the yesterday exercise, but got stuck in another one.
+
+**Thoughts:** Doing such exercises helps to refresh memory on basic Python concepts, and they are actually not that easy to solve as this may seem, so I was in constant reading through docs and StackOverflow.
