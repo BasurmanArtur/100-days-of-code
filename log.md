@@ -185,3 +185,9 @@
 **Today's Progress**: Today I had quite a busy day, so I decided to continue with the exercises. Come up with a solution to the yesterday exercise, but got stuck in another one.
 
 **Thoughts:** Doing such exercises helps to refresh memory on basic Python concepts, and they are actually not that easy to solve as this may seem, so I was in constant reading through docs and StackOverflow.
+
+### Day 29 April 4, 2020
+
+**Today's Progress**: Today I continued to work on a Guided Project on Dataquest. Learnt quite a lot about vectorized string methods in Python.
+
+**Thoughts:** My work slowly continues, overcoming quite a few obstacles on my way, but it is very satisfactory when you finally do what you wanted.
