@@ -195,7 +195,7 @@
 
 ### Day 30: April 5, 2020
 
-**Today's Progress**: Today I continued to work on a Guided Project on Dataquest. Tried to plot some boxplot and got some key errors on DataQuest, although everything worked fine on my local machine. Gotta ask the community about the problem tomorrow.
+**Today's Progress**: Today I continued to work on a Guided Project on Dataquest. Tried to plot some boxplots and got some key errors on DataQuest, although everything worked fine on my local machine. Gotta ask the community about the problem tomorrow.
 
 **Thoughts:** Incredible! One month passed so quickly.
 
