@@ -202,7 +202,7 @@
 
 ### Day 31: April 6, 2020
 
-**Today's Progress**: Today I continued to work on a Guided Project on Dataquest. Asked about the yesterday problem on Community forum, waiting for a response. Today I started to create new columns by combining the existing ones. Learnt about `DataFrame.any()` method.
+**Today's Progress**: Today I continued to work on a Guided Project on Dataquest. Asked about the yesterday problem on Community forum, waiting for a response. I started to create new columns by combining the existing ones. Learnt about `DataFrame.any()` method.
 
 **Thoughts:** On March 6 I started this challenge, only missed one day of coding. That result would be impossible wityout the challenge. 
 
