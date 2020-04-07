@@ -206,6 +206,8 @@
 
 **Thoughts:** On March 6 I started this challenge, only missed one day of coding. That result would be impossible wityout the challenge. 
 
+### Day 32: April 7, 2020
 
+**Today's Progress**: Today I continued to work on a Guided Project on Dataquest. I finally combined both datasets, dropped all unnecessary columns and tomorrow I will start a real analysis.
 
-**Thoughts:** Incredible! One month passed so quickly.
+**Thoughts:** I am at the final stage of the project, excited to see what I will find out!
