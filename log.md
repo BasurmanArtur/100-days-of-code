@@ -211,3 +211,16 @@
 **Today's Progress**: Today I continued to work on a Guided Project on Dataquest. I finally combined both datasets, dropped all unnecessary columns and tomorrow I will start a real analysis.
 
 **Thoughts:** I am at the final stage of the project, excited to see what I will find out!
+
+
+### Day 33: April 8, 2020
+
+**Today's Progress**: Today I continued to work on a Guided Project on Dataquest. I finished initial data cleaning and finally got an answer to the first question, using a plot:
+
+* Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
+
+From the initial analysis it is clear that empoyees with more than 7 years of service are more likely to resign due to some kind of dissatisfaction.
+
+Tomorrow I will continue to clean the datasets and answer to the second question. I will also improve aesthetics of all plots I will create with Seaborn.
+
+**Thoughts:** I am at the final stage of the project, excited to see what I will find out!
