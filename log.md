@@ -223,4 +223,4 @@ From the initial analysis it is clear that empoyees with more than 7 years of se
 
 Tomorrow I will continue to clean the datasets and answer to the second question. I will also improve aesthetics of all plots I will create with Seaborn.
 
-**Thoughts:** I am at the final stage of the project, excited to see what I will find out!
+**Thoughts:** It need a lot of mental work in order to answer data science questions, but when you get the result, is is so much satisfation!
