@@ -230,4 +230,4 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 
 **Today's Progress**: Today I continued to work on a Guided Project on Dataquest. I improved the plot mastering my Seaborn skills, I also cleaned a bit the code and Markup description.
 
-**Thoughts:** That was a great satisfaction get a cleaner plot, that visualize my data much clearer.
+**Thoughts:** That was a great satisfaction get a cleaner plot, that visualizes my data much clearer.
