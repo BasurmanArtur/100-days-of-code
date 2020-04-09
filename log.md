@@ -224,3 +224,10 @@ From the initial analysis it is clear that empoyees with more than 7 years of se
 Tomorrow I will continue to clean the datasets and answer to the second question. I will also improve aesthetics of all plots I will create with Seaborn.
 
 **Thoughts:** It needs a lot of mental work in order to answer data science questions, but when you get the result, is is so much satisfation!
+
+
+### Day 34: April 9, 2020
+
+**Today's Progress**: Today I continued to work on a Guided Project on Dataquest. I improved the plot mastering my Seaborn skills, I also cleaned a bit the code and Markup description.
+
+**Thoughts:** That was a great satisfaction get a cleaner plot, that visualize my data much clearer.
