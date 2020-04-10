@@ -231,3 +231,9 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I continued to work on a Guided Project on Dataquest. I improved the plot mastering my Seaborn skills, I also cleaned a bit the code and Markup description.
 
 **Thoughts:** That was a great satisfaction get a cleaner plot, that visualizes my data much clearer.
+
+### Day 35: April 10, 2020
+
+**Today's Progress**: Today I continued to work on a Guided Project on Dataquest. I splitted all the employees in generational cohorts and plotted a bar plot. The Gen Z is the most satisfied generation!
+
+**Thoughts:** Today I finally did some independent work, even though not completely. I have to take over a project and start ot do it independently.
