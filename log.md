@@ -237,3 +237,11 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I continued to work on a Guided Project on Dataquest. I splitted all the employees in generational cohorts and plotted a bar plot. The Gen Z is the most satisfied generation!
 
 **Thoughts:** Today I finally did some independent work, even though not completely. I have to take over a project and start ot do it independently.
+
+### Day 36: April 11, 2020
+
+**Today's Progress**: Today I continued to work on a Guided Project on Dataquest. I created a pivot table combining service categories and generation cohorts, then I reordered to make it more logical, I also reordered the previous pivot tables. Finally, I plotted the results.
+
+**Thoughts:** Today I worked independently, searching for information on Web, that was incredible!
+
+
