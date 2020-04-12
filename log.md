@@ -249,5 +249,5 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 
 **Today's Progress**: Today I just wrote a quick function that annotates all my plots because DRY!
 
-**Thoughts:** I didn't work a lot today, because of Easter, but I believe my project is almost ready. I have to write some conclusions, check the code, typos and that's it. Happy Easter!
+**Thoughts:** I didn't work a lot today, because of Easter, but I believe my project is almost ready. I have to write some conclusions, check the code, typos. I also have to check for any bias in the data. Happy Easter!
 
