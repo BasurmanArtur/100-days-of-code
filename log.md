@@ -245,3 +245,9 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Thoughts:** Today I worked independently, searching for information on Web, that was incredible!
 
 
+### Day 37: April 12, 2020
+
+**Today's Progress**: Today I just wrote a quick function that annotates all my plots because DRY!
+
+**Thoughts:** I didn't work a lot today, because of Easter, but I believe my project is almost ready. I have to write some conclusions, check the code, typos and that's it. Happy Easter!
+
