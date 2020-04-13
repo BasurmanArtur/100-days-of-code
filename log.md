@@ -251,3 +251,8 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 
 **Thoughts:** I didn't work a lot today, because of Easter, but I believe my project is almost ready. I have to write some conclusions, check the code, typos. I also have to check for any bias in the data. Happy Easter!
 
+### Day 38: April 13, 2020
+
+**Today's Progress**: Today I read thouroughly my project, correcting mistakes, style inconsistencies, illogical passages and so on.
+
+**Thoughts:** I'm almost ready to publish my project. Just need to check for biases, typos, align it with the [DataQuest style guide](https://www.dataquest.io/blog/data-science-project-style-guide/) and write conclusions.
