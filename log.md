@@ -262,3 +262,9 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I checked if each group is big enough to provide attendible data. It is clear that some groups are too small to be sure that conclusions are correct.
 
 **Thoughts:** This thought to check for any bias got into my mind last night, and actually it was very important to check for data biases. Now I need to align the project with DataQuest style guide.
+
+### Day 40: April 15, 2020
+
+**Today's Progress**: Today I finalized my project. Tomorrow I am going to read a [DataQuest style guide](https://www.dataquest.io/blog/data-science-project-style-guide/) to check if I may improve anything.
+
+**Thoughts:** I am on the verge to publish my project! I'd like to have any feedback that may improve my skills (especially writing).
