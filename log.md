@@ -268,3 +268,10 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I finalized my project. Tomorrow I am going to read a [DataQuest style guide](https://www.dataquest.io/blog/data-science-project-style-guide/) to check if I may improve anything.
 
 **Thoughts:** I am on the verge tof publishing my project! I'd like to have any feedback that may improve my skills (especially writing).
+
+
+### Day 41: April 16, 2020
+
+**Today's Progress**: Today I improved the project style, making some small changes to the plots, subheadings and the title.
+
+**Thoughts:**: I finally uploaded my project and asked for any feedback on DataQuest forums.
