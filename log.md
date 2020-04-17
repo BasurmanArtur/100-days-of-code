@@ -279,6 +279,6 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 
 ### Day 42: April 17, 2020
 
-**Today's Progress**: Today I tried to do a small exercise on dictionaries, but failed, because I couldn't even understand the logic to use behind it. After looking at the solution, I slowly figured out what had to be done.
+**Today's Progress**: Today I tried to do a small exercise on dictionaries but failed because I couldn't even understand the logic to use behind it. After looking at the solution, I slowly figured out what had to be done.
 
 **Thoughts:**: It is completely ok to check the solution if I fully understand what is the idea behind it.
