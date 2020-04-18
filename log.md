@@ -274,17 +274,17 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 
 **Today's Progress**: Today I improved the project style, making some small changes to the plots, subheadings and the title.
 
-**Thoughts:**: I finally uploaded my project and asked for any feedback on DataQuest forums.
+**Thoughts**: I finally uploaded my project and asked for any feedback on DataQuest forums.
 
 
 ### Day 42: April 17, 2020
 
 **Today's Progress**: Today I tried to do a small exercise on dictionaries but failed because I couldn't even understand the logic to use behind it. After looking at the solution, I slowly figured out what had to be done.
 
-**Thoughts:**: It is completely ok to check the solution if I fully understand what is the idea behind it.
+**Thoughts**: It is completely ok to check the solution if I fully understand what is the idea behind it.
 
 ### Day 43: April 18, 2020
 
 **Today's Progress**: Today I started to study regex on DataQuest, I already knew the basics, so it wasn't difficult to understand basic stuff.
 
-**Thoughts:**: Yesterday my project was recognized as one of the best this week, I'm very proud and happy!
+**Thoughts**: Yesterday my project was recognized as one of the best this week, I'm very proud and happy!
