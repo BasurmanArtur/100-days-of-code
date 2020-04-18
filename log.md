@@ -285,6 +285,6 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 
 ### Day 43: April 18, 2020
 
-**Today's Progress**: Today I started to study regex on DataQuest, I already knew the basics, so it wasn't difficut to understand basic stuff.
+**Today's Progress**: Today I started to study regex on DataQuest, I already knew the basics, so it wasn't difficult to understand basic stuff.
 
 **Thoughts:**: Yesterday my project was recognized as one of the best this week, I'm very proud and happy!
