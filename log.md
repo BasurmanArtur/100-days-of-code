@@ -282,3 +282,9 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I tried to do a small exercise on dictionaries but failed because I couldn't even understand the logic to use behind it. After looking at the solution, I slowly figured out what had to be done.
 
 **Thoughts:**: It is completely ok to check the solution if I fully understand what is the idea behind it.
+
+### Day 43: April 18, 2020
+
+**Today's Progress**: Today I started to study regex on DataQuest, I already knew the basics, so it wasn't difficut to understand basic stuff.
+
+**Thoughts:**: Yesterday my project was recognized as one of the best this week, I'm very proud and happy!
