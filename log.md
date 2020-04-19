@@ -288,3 +288,9 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I started to study regex on DataQuest, I already knew the basics, so it wasn't difficult to understand basic stuff.
 
 **Thoughts**: Yesterday my project was recognized as one of the best this week, I'm very proud and happy!
+
+### Day 44: April 19, 2020
+
+**Today's Progress**: Today I continued to study regex on DataQuest. It took me numerous attempts to solve the challenge, but I finally did it and learned some useful case studies. 
+
+**Thoughts**: Most of work is already done before us, so it has no sense to reinvent the wheel, but it is important to fully understand the code that we copy.
