@@ -294,3 +294,17 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I continued to study regex on DataQuest. It took me numerous attempts to solve the challenge, but I finally did it and learned some useful case studies. 
 
 **Thoughts**: Most of work is already done before us, so it has no sense to reinvent the wheel, but it is important to fully understand the code that we copy.
+
+
+### Day 45: April 20, 2020
+
+**Today's Progress**: Today I continued to study regex on DataQuest. It took me half an hour to figure out a regex to extract all URLs from the [HackerNews dataset](https://news.ycombinator.com).
+
+**Thoughts**: I still not fully understand the syntax behind this pattern, but I will try to understand it!
+
+
+### Day 46: April 21, 2020
+
+**Today's Progress**: Today I restarted my internship project, I combined two datasets and splitted all ages in diffent categories. I also did some exercise on regex on DataQuest and extracted separately URL's protocol, domain and page path. I failed though not to return non-matches.
+
+**Thoughts**: It is great to restart my internship but I still struggle to understand next steps.
