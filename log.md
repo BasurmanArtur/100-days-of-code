@@ -308,3 +308,10 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I restarted my internship project, I combined two datasets and splitted all ages in diffent categories. I also did some exercise on regex on DataQuest and extracted separately URL's protocol, domain and page path. I failed though not to return non-matches.
 
 **Thoughts**: It is great to restart my internship but I still struggle to understand next steps.
+
+### Day 47: April 22, 2020
+
+**Today's Progress**: Today I started "List Comprehensions and Lambda Functions" on DataQuest.
+
+**Thoughts**: List Comprehensions make me feel free from for loops, a great tool discovered too late!
+
