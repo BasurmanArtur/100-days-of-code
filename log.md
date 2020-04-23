@@ -315,3 +315,8 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 
 **Thoughts**: List Comprehensions make me feel free from for loops, a great tool discovered too late!
 
+### Day 48: April 23, 2020
+
+**Today's Progress**: Today I learned about `lambda` functions on DataQuest.
+
+**Thoughts**: I already knew what `lambda` functions are but the way they are explained on DataQuest is incredibly simple and understandable!
