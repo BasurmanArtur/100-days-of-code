@@ -320,3 +320,21 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I learned about `lambda` functions on DataQuest.
 
 **Thoughts**: I already knew what `lambda` functions are but the way they are explained on DataQuest is incredibly simple and understandable!
+
+### Day 49: April 24, 2020
+
+**Today's Progress**: Today I learned about the `DataFrame.mask()` method and correlation heatmaps. 
+
+**Thoughts**: I'm definitely interested in producing beautiful plots!
+
+### Day 50: April 25, 2020
+
+**Today's Progress**: TToday I mastered the `DataFrame.mask()` method cleaning a [NYC dataset Vehicle Collisions](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95).
+
+**Thoughts**: I'm on halfway of the challenge, that is and incredible achievement!
+
+### Day 51: April 26, 2020
+
+**Today's Progress**: Today I almost finished "Data Cleaning Walkthrough" on DataQuest.
+
+**Thoughts**: This mission helps me understand a general data science workflow. Things get complicated, and also the datasets I'm analyzing are not particularly interesting.
