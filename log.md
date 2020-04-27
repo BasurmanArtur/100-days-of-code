@@ -338,3 +338,9 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I almost finished "Data Cleaning Walkthrough" on DataQuest.
 
 **Thoughts**: This mission helps me understand a general data science workflow. Things get complicated, and also the datasets I'm analyzing are not particularly interesting.
+
+### Day 52: April 27, 2020
+
+**Today's Progress**: Today I finished "Data Cleaning Walkthrough: Combining the Data" on DataQuest. I combined several datasets using different merge types: left or inner based on what I needed from the final dataset. I also applied new knowledge to clean my internship datasets.
+
+**Thoughts**: Today I noticed that I actually know quite a lot, now I just need to practice a lot in order to master and polish my skills (I'm still not very quick in deciding what to do next).
