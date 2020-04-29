@@ -344,3 +344,17 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I finished "Data Cleaning Walkthrough: Combining the Data" on DataQuest. I combined several datasets using different merge types: left or inner based on what I needed from the final dataset. I also applied new knowledge to clean my internship datasets.
 
 **Thoughts**: Today I noticed that I actually know quite a lot, now I just need to practice a lot in order to master and polish my skills (I'm still not very quick in deciding what to do next).
+
+
+### Day 53: April 28, 2020
+
+**Today's Progress**: Today I finished "Data Cleaning Walkthrough: Analyzing and Visualizing Data" on DataQuest. I visualized some interesting data on a NYC map.
+
+**Thoughts**: Tomorrow I will start a new guided project on NYC Sat Scores. I will try to find out if this test is fair to different groups of high schools seniors.
+
+
+### Day 54: April 29, 2020
+
+**Today's Progress**: Today I started a new guided project on DataQuest. I will analyse NYC Sat Scores and find out if this test if fair to different demographic groups. I will also try to figure out if there are any correlations with school satisfaction scores.
+
+**Thoughts**: Ready to rock with this new project!
