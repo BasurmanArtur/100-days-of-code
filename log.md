@@ -358,3 +358,9 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I started a new guided project on DataQuest. I will analyse NYC Sat Scores and find out if this test if fair to different demographic groups. I will also try to figure out if there are any correlations with school satisfaction scores.
 
 **Thoughts**: Ready to rock with this new project!
+
+### Day 55: April 30, 2020
+
+**Today's Progress**: Today I worked a lot on my internship project, mainly cleaning the samples' names in order to effectively combine two datasets.
+
+**Thoughts**: I'm almost ready to begin with analyzing and visualizing of the data.
