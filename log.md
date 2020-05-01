@@ -364,3 +364,9 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I worked a lot on my internship project, mainly cleaning the samples' names in order to effectively combine two datasets.
 
 **Thoughts**: I'm almost ready to begin with analyzing and visualizing of the data.
+
+### Day 56: May 1, 2020
+
+**Today's Progress**: Today I continued to work on the guided project on DataQuest. I cleaned a bit all datasets and wrote some markdown notes to explain every step I accomplish.
+
+**Thoughts**: Now the process of data cleaning seems much more natural than just a couple of weeks ago.
