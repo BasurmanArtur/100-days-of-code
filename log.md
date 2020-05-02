@@ -370,3 +370,10 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I continued to work on the guided project on DataQuest. I cleaned a bit all datasets and wrote some markdown notes to explain every step I accomplish.
 
 **Thoughts**: Now the process of data cleaning seems much more natural than just a couple of weeks ago.
+
+
+### Day 57: May 2, 2020
+
+**Today's Progress**: Today I worked a lot on my internship project and finally plotted all ancient human samples on two maps based on their average ages and age categories.
+
+**Thoughts**: It was very exciting to search for information to solve a lot of challenges along the way!
