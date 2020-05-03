@@ -377,3 +377,10 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I worked a lot on my internship project and finally plotted all ancient human samples on two maps based on their average ages and age categories.
 
 **Thoughts**: It was very exciting to search for information to solve a lot of challenges along the way!
+
+
+### Day 58: May 3, 2020
+
+**Today's Progress**: Today I continued to work on the guided project on DataQuest. I didn't get why we use different join methods when combining the datasets and had to ask for it on the forum.
+
+**Thoughts**: Just waiting for an answer, I'm glad I decided to pay more attention to motivations behind join methods.
