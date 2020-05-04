@@ -384,3 +384,9 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I continued to work on the guided project on DataQuest. I didn't get why we use different join methods when combining the datasets and had to ask for it on the forum.
 
 **Thoughts**: Just waiting for an answer, I'm glad I decided to pay more attention to motivations behind join methods.
+
+### Day 59: May 4, 2020
+
+**Today's Progress**: Today I continued to work on the guided project on DataQuest. I calculated correlations between SAT results and some demographic school measures.
+
+**Thoughts**: I found some surprising correlations, like the fact that bigger schools perform better in the SAT!
