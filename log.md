@@ -390,3 +390,9 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I continued to work on the guided project on DataQuest. I calculated correlations between SAT results and some demographic school measures.
 
 **Thoughts**: I found some surprising correlations, like the fact that bigger schools perform better in the SAT!
+
+### Day 60: May 5, 2020
+
+**Today's Progress**: Today I worked on my internship project and learn a bit more about Basemap, I also experimented a bit with multiple maps on the same plot, but they were too big to put them in one picture so I decided to plot them one by one.
+
+**Thoughts**: I'm excited because I have to correlate DNA percentage with sample age and plot them on the map, that will be a great challenge! 
