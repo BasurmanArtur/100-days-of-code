@@ -153,8 +153,8 @@
 
 **Thoughts:** I have to pay much more attention while exploring the data to avoid unwanted mistakes during the analysis.
 
-
 ### Day 24: March 30, 2020
+
 
 **Today's Progress**: Today I finished the initial data explorarion and started to clean the data.
 
@@ -329,7 +329,7 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 
 ### Day 50: April 25, 2020
 
-**Today's Progress**: TToday I mastered the `DataFrame.mask()` method cleaning a [NYC dataset Vehicle Collisions](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95).
+**Today's Progress**: Today I mastered the `DataFrame.mask()` method cleaning a [NYC dataset Vehicle Collisions](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95).
 
 **Thoughts**: I'm on halfway of the challenge, that is and incredible achievement!
 
