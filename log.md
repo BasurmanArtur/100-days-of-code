@@ -396,3 +396,10 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I worked on my internship project and learn a bit more about Basemap, I also experimented a bit with multiple maps on the same plot, but they were too big to put them in one picture so I decided to plot them one by one.
 
 **Thoughts**: I'm excited because I have to correlate DNA percentage with sample age and plot them on the map, that will be a great challenge! 
+
+
+### Day 61: May 6, 2020
+
+**Today's Progress**: Today I worked on the guided project on DataQuest. I learned a lot about visualizing technique and I'm eager to experiment with Seaborn!
+
+**Thoughts**: Data Visualizing is extremely appealing to me. 
