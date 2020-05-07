@@ -403,3 +403,10 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I worked on the guided project on DataQuest. I learned a lot about visualizing technique and I'm eager to experiment with Seaborn!
 
 **Thoughts**: Data Visualizing is extremely appealing to me. 
+
+
+### Day 62: May 7, 2020
+
+**Today's Progress**: Today I worked on the guided project on DataQuest. I tried to find out how to gain full controll of individual ticks and probably have some ideas that I have to check in the next days.
+
+**Thoughts**: There is so much functionatlity in Matplotlib if you are willing to dig deeper!
