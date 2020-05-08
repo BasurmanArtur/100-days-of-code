@@ -410,3 +410,9 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I worked on the guided project on DataQuest. I tried to find out how to gain full controll of individual ticks and probably have some ideas that I have to check in the next days.
 
 **Thoughts**: There is so much functionatlity in Matplotlib if you are willing to dig deeper!
+
+### Day 63: May 8, 2020
+
+**Today's Progress**: Today I worked on the guided project on DataQuest. I mapped school safety scores on the map and customized it a bit. 
+
+**Thoughts**: Plot customization is very exciting!
