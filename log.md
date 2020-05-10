@@ -422,3 +422,9 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I worked on the guided project on DataQuest. I found out that the black ethnicity group study in less safest schools. I have to investigate further the correlation between percentage of the hispanic group and SAT scores.
 
 **Thoughts**: I did some cool plot customizations! That was very exciting!
+
+### Day 65: May 10, 2020
+
+**Today's Progress**: Today I worked on the guided project on DataQuest. I found out that the English learners percentage correlates negatively with average SAT scores.
+
+**Thoughts**: It was very interesting to search for information on Google to understand the causes of correlations I've found.
