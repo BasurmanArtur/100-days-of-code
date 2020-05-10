@@ -416,3 +416,9 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I worked on the guided project on DataQuest. I mapped school safety scores on the map and customized it a bit. 
 
 **Thoughts**: Plot customization is very exciting!
+
+### Day 64: May 9, 2020
+
+**Today's Progress**: Today I worked on the guided project on DataQuest. I found out that the black ethnicity group study in less safest schools. I have to investigate further the correlation between percentage of the hispanic group and SAT scores.
+
+**Thoughts**: I did some cool plot customizations! That was very exciting!
