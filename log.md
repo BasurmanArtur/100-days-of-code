@@ -434,3 +434,9 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I worked on the guided project on DataQuest. I improved the aesthetics of plots and found out that there is only a small possibility of gender correlation with SAT results. Academic preparation is much more important in students' performance.
 
 **Thoughts**: I have to be quicker in finishing the projects. I know try to figure out what are the best plots to use and to learn some new customization techniques that I will use in my next projects.
+
+### Day 67: May 12, 2020
+
+**Today's Progress**: Today I worked on the guided project on DataQuest. I found out that schools with bigger average class sizes perform better in the SAT! I also learned how to use LaTex in the Matplotlib annotation.
+
+**Thoughts**: I still find small flaws in my plots, probably I have to appreciate what I did so far?
