@@ -440,3 +440,9 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I worked on the guided project on DataQuest. I found out that schools with bigger average class sizes perform better in the SAT! I also learned how to use LaTex in the Matplotlib annotation.
 
 **Thoughts**: I still find small flaws in my plots, probably I have to appreciate what I did so far?
+
+### Day 68: May 13, 2020
+
+**Today's Progress**: Today I worked on the guided project on DataQuest. I checked and corrected some logical and grammar errors. I also renamed most titles to make them more meaningful. In the next few days I will write conclusions and publish my project on DataQuest community forums. 
+
+**Thoughts**: I am excited that I am improving so much!
