@@ -446,3 +446,10 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I worked on the guided project on DataQuest. I checked and corrected some logical and grammar errors. I also renamed most titles to make them more meaningful. In the next few days I will write conclusions and publish my project on DataQuest community forums. 
 
 **Thoughts**: I am excited that I am improving so much!
+
+
+### Day 69: May 14, 2020
+
+**Today's Progress**: Today I wrote conclusions and results of my project and published it on the DataQuest forums.
+
+**Thoughts**: I'm waiting for feedback: especially on my plots!
