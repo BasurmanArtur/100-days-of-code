@@ -447,9 +447,14 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 
 **Thoughts**: I am excited that I am improving so much!
 
-
 ### Day 69: May 14, 2020
 
 **Today's Progress**: Today I wrote conclusions and results of my project and published it on the DataQuest forums.
 
 **Thoughts**: I'm waiting for feedback: especially on my plots!
+
+### Day 70: May 15, 2020
+
+**Today's Progress**: Today I did "Challenge: Cleaning Data". I struggled in one challenge but than figured out how to do them by looking at the answer (and understanding it).
+
+**Thoughts**: I still can't resolve some challenging tasks. It sucks but I'm improving! Tomorrow I will start a new guided project analyzing the Star Wars Surveys.
