@@ -458,3 +458,18 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 **Today's Progress**: Today I did "Challenge: Cleaning Data". I struggled in one challenge but than figured out how to do them by looking at the answer (and understanding it).
 
 **Thoughts**: I still can't resolve some challenging tasks. It sucks but I'm improving! Tomorrow I will start a new guided project analyzing the Star Wars Surveys.
+
+### Day 71: May 16, 2020
+
+**Today's Progress**: Today I started a new guided project on DataQuest. I will analyze a Star Wars survey and answer to these questions:
+* What is the best Star Wars film overall?
+* What is the best Star Wars film in each census region?
+* What are the most seen films and how do they correlate with rankings?
+* What are the gender differences in being fan of Star Wars and Star Trek franchise?
+* Who shoot first: Han or Greedo? How does it correlate with age?
+* Who is the most favourite character? Who is the less favourite?
+* Which character is the most controversial (split between likes and dislikes)?
+
+Today I explored the dataset and did some initial cleaning. In this project, I'm going to learn more about the Folium library!
+
+**Thoughts**: I'm ready to a new experience.
