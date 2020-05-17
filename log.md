@@ -473,3 +473,9 @@ Tomorrow I will continue to clean the datasets and answer to the second question
 Today I explored the dataset and did some initial cleaning. In this project, I'm going to learn more about the Folium library!
 
 **Thoughts**: I'm ready to a new experience.
+
+### Day 72: May 17, 2020
+
+**Today's Progress**: Today I cleaned the rest of the columns and tomorrow I will start the data analyses.
+
+**Thoughts**: Who knows what surprising results are awaiting me?
