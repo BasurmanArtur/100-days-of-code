@@ -479,3 +479,11 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: Today I cleaned the rest of the columns and tomorrow I will start the data analyses.
 
 **Thoughts**: Who knows what surprising results are awaiting me?
+
+### Day 72: May 17, 2020
+
+**Today's Progress**: Today I discovered the best Star Wars movie: it's Episode IV: The Empire Strikes Back.
+
+**Thoughts**: I'm much quicker in creating plots than before!
+
+
