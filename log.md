@@ -480,10 +480,14 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 
 **Thoughts**: Who knows what surprising results are awaiting me?
 
-### Day 72: May 17, 2020
+### Day 73: May 18, 2020
 
-**Today's Progress**: Today I discovered the best Star Wars movie: it's Episode IV: The Empire Strikes Back.
+**Today's Progress**: Today I discovered the best Star Wars movie: it's Episode V: The Empire Strikes Back.
 
 **Thoughts**: I'm much quicker in creating plots than before!
 
+### Day 74: May 19, 2020
 
+**Today's Progress**: The most seen Star Wars movie is always Episode V: The Empire Strikes Back!
+
+**Thoughts**: I was able to quickly produce 3 plots and remembered a lot of things!
