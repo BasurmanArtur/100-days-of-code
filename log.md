@@ -491,3 +491,9 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: The most seen Star Wars movie is always Episode V: The Empire Strikes Back!
 
 **Thoughts**: I was able to quickly produce 3 plots and remembered a lot of things!
+
+### Day 75: May 20, 2020
+
+**Today's Progress**: Today I created a plot of the number of fans of Star Wars and Star Trek by gender.
+
+**Thoughts**: Tomorrow I will have to complete the plot.
