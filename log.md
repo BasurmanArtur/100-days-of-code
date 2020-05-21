@@ -497,3 +497,9 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: Today I created a plot of the number of fans of Star Wars and Star Trek by gender.
 
 **Thoughts**: Tomorrow I will have to complete the plot.
+
+### Day 76: May 21, 2020
+
+**Today's Progress**: Today I worked on a project for one of my university courses. We are analyzing the gene expression in different forms of breast cancer. I did some initial exploratory analysis before the data normalization. 
+
+**Thoughts**: I do not understand the half of what is written but I have a general idea of what has to be done.
