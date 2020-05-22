@@ -503,3 +503,9 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: Today I worked on a project for one of my university courses. We are analyzing the gene expression in different forms of breast cancer. I did some initial exploratory analysis before the data normalization. 
 
 **Thoughts**: I do not understand the half of what is written but I have a general idea of what has to be done.
+
+### Day 77: May 22, 2020
+
+**Today's Progress**: Today I selected the patients of my interest and splitt them into two groups.
+
+**Thoughts**: There are so my functions in R that work almost in the same way!
