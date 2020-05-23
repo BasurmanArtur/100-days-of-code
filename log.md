@@ -509,3 +509,9 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: Today I selected the patients of my interest and splitt them into two groups.
 
 **Thoughts**: There are so my functions in R that work almost in the same way!
+
+### Day 78: May 23, 2020
+
+**Today's Progress**: Today I figured out how the number of differentially expressed genes change by Media and Standard Deviation.
+
+**Thoughts**: Tomorrow I will have to study and create a more thorough plan of how to proceed.
