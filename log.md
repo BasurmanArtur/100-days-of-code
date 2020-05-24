@@ -515,3 +515,11 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: Today I figured out how the number of differentially expressed genes change by Media and Standard Deviation.
 
 **Thoughts**: Tomorrow I will have to study and create a more thorough plan of how to proceed.
+
+### Day 79: May 24, 2020
+
+**Today's Progress**: Today I wrote the introduction and the objectives of my project. I also assessed the authors of the analyzed scientific  paper on MINSEQE criteria for experiment reproducibility. I also created some exploratory boxplots.
+
+**Thoughts**: I'm very satisfied of the the job doen today.
+
+
