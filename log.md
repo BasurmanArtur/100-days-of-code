@@ -522,4 +522,8 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 
 **Thoughts**: I'm very satisfied of the the job doen today.
 
+### Day 80: May 25, 2020
 
+**Today's Progress**: Today I created two plots to figure out if the data need normalization. It turns out that tomorrow I will have to choose a normalization procedure!
+
+**Thoughts**: I slowly start to understand how the RNA-Seq analysis works.
