@@ -527,3 +527,10 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: Today I created two plots to figure out if the data need normalization. It turns out that tomorrow I will have to choose a normalization procedure!
 
 **Thoughts**: I slowly start to understand how the RNA-Seq analysis works.
+
+### Day 81: May 26, 2020
+
+**Today's Progress**: Today I did the RNA-Seq normalizations and created plots of up- and down-regulated genes. They are quite different from those of the scientific work of reference.
+
+**Thoughts**: Today I did a great job and I suppose I did most part of the project. I will have now understand each method to pass the exam!
+
