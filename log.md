@@ -534,3 +534,9 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 
 **Thoughts**: Today I did a great job and I suppose I did most part of the project. I will have now understand each method to pass the exam!
 
+### Day 82: May 27, 2020
+
+**Today's Progress**: Today I continued my project on DataQuest. I normalized the number of fans of Star Wars and Star Trek for each gender.
+
+**Thoughts**: Both sagas are more attractive to men!
+
