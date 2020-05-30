@@ -545,3 +545,9 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: Today I continued my RNA-Seq analysis project. I split the genes in up- and down-regulated for both patient groups (early neoplasia and cancer) and did some control of how well these groups are clustered.
 
 **Thoughts**: Today I learned quite a lot about normalization tecniques, I need to put everything together i nmy head now!
+
+### Day 84: May 29, 2020
+
+**Today's Progress**: Today I started to do GeneSet Analysis and had to convert the Gene IDs to another format.
+
+**Thoughts**: I almost finished the project and I hope I didn't make any mistakes.
