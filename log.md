@@ -551,3 +551,9 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: Today I started to do GeneSet Analysis and had to convert the Gene IDs to another format.
 
 **Thoughts**: I almost finished the project and I hope I didn't make any mistakes.
+
+### Day 85: May 30, 2020
+
+**Today's Progress**: Today I did some gene enrichment analysis and found out that a lot of up-regulated genes are part of immune system pathways that are altered during the tumorigenesis.
+
+**Thoughts**: It's great that I'm also studying immunology otherwise I wouldn't understand anything.
