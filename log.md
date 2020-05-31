@@ -557,3 +557,9 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: Today I did some gene enrichment analysis and found out that a lot of up-regulated genes are part of immune system pathways that are altered during the tumorigenesis.
 
 **Thoughts**: It's great that I'm also studying immunology otherwise I wouldn't understand anything.
+
+### Day 86: May 31, 2020
+
+**Today's Progress**: Today I finally came up with excluding all unnecessary samples and basically redid the analysis. I also began with cluster analysis. There are some interesting findings on the heatmap: the gene expression levels are almost symmetrical for two patient clusters and two gene clusters.
+
+**Thoughts**: I have to finish my project soon!
