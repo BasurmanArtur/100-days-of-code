@@ -563,3 +563,9 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: Today I finally came up with excluding all unnecessary samples and basically redid the analysis. I also began with cluster analysis. There are some interesting findings on the heatmap: the gene expression levels are almost symmetrical for two patient clusters and two gene clusters.
 
 **Thoughts**: I have to finish my project soon!
+
+### Day 87: June 1, 2020
+
+**Today's Progress**: Today I continued the Gene Set Enrichment Analysis and found out that almost all enriched pathways are correlated to the immune system.
+
+**Thoughts**: I just need to finish the last analyses and write conclusions.
