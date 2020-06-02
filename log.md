@@ -569,3 +569,9 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: Today I continued the Gene Set Enrichment Analysis and found out that almost all enriched pathways are correlated to the immune system.
 
 **Thoughts**: I just need to finish the last analyses and write conclusions.
+
+### Day 88: June 2, 2020
+
+**Today's Progress**: Today I finished the GSEA and I just need to write the conclusions.
+
+**Thoughts**: Only conclusions left! Just another proofread and I'm ready to send it to the professor.
