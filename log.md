@@ -575,3 +575,9 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: Today I finished the GSEA and I just need to write the conclusions.
 
 **Thoughts**: Only conclusions left! Just another proofread and I'm ready to send it to the professor.
+
+### Day 89: June 3, 2020
+
+**Today's Progress**: Today I finished writing the conclusions for my course project. I also restarted a guided project on DataQuest and checked some plots.
+
+**Thoughts**: I'm happy to almost finalize my project and I'm ready to finish the guided project too!
