@@ -581,3 +581,9 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: Today I finished writing the conclusions for my course project. I also restarted a guided project on DataQuest and checked some plots.
 
 **Thoughts**: I'm happy to almost finalize my project and I'm ready to finish the guided project too!
+
+### Day 90: June 4, 2020
+
+**Today's Progress**: Today I added some small things to my course project and it's finally ready. I also wrote a small script for Google Sheets that reminds me of expiration dates.
+
+**Thoughts**: I feel very free, now I have to study theory for the course.
