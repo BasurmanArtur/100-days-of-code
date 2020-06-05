@@ -587,3 +587,9 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: Today I added some small things to my course project and it's finally ready. I also wrote a small script for Google Sheets that reminds me of expiration dates.
 
 **Thoughts**: I feel very free, now I have to study theory for the course.
+
+### Day 91: June 5, 2020
+
+**Today's Progress**: Today I continued a guided project on Star Wars survey on DataQuest. I found out that Han shot first according to American society.
+
+**Thoughts**: I finally got back to Python!
