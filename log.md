@@ -593,3 +593,9 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: Today I continued a guided project on Star Wars survey on DataQuest. I found out that Han shot first according to American society.
 
 **Thoughts**: I finally got back to Python!
+
+### Day 92: June 6, 2020
+
+**Today's Progress**: Today I continued a guided project on Star Wars survey on DataQuest. I tried to find any correlation between scores and age group but there is no correlation... Everybody likes Han Solo!
+
+**Thoughts**: IIt took me a while to remember how to reshape the data, but I finally did it!
