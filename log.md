@@ -599,3 +599,9 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: Today I continued a guided project on Star Wars survey on DataQuest. I tried to find any correlation between scores and age group but there is no correlation... Everybody likes Han Solo!
 
 **Thoughts**: IIt took me a while to remember how to reshape the data, but I finally did it!
+
+### Day 93: June 7, 2020
+
+**Today's Progress**: Today I found out who are the most controversial characters in Star Wars. They are... You will know in the next days, when I finally finish the plot
+
+**Thoughts**: I have to know how and when to stop to have a rest!
