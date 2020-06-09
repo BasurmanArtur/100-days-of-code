@@ -605,3 +605,9 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: Today I found out who are the most controversial characters in Star Wars. They are... You will know in the next days, when I finally finish the plot
 
 **Thoughts**: I have to know how and when to stop to have a rest!
+
+### Day 94: June 9, 2020
+
+**Today's Progress**: Today I tried to assign a different color palette for each bin on my plot but did not succeed.
+
+**Thoughts**: I have to try it tomorrow!
