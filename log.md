@@ -611,3 +611,9 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: Today I tried to assign a different color palette for each bin on my plot but did not succeed.
 
 **Thoughts**: I have to try it tomorrow!
+
+### Day 95: June 10, 2020
+
+**Today's Progress**: Today I finally succeeded in coloring only specific bars on my plot!
+
+**Thoughts**: Here are some controversial character. StakOverflow is a very helpful resource!
