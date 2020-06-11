@@ -617,3 +617,9 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: Today I finally succeeded in coloring only specific bars on my plot!
 
 **Thoughts**: Here are some controversial character. StakOverflow is a very helpful resource!
+
+### Day 96: June 11, 2020
+
+**Today's Progress**: Today I started to learn about the folium library for Python. I would like to map the number of likes for some Star Wars characters for each US census region. I will probably have to create my own GeoJson file.
+
+**Thoughts**: I will even have to learn how to use QGIS. So many new knowledge just ot finish the Star Wars project.
