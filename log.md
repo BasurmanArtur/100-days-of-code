@@ -629,3 +629,9 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: Today I plotted the USA census subdivisions on a folium map. I still have to figure out how to prepare my data for plotting (and if it is possible).
 
 **Thoughts**: Just 4 days left to the end of the challenge.
+
+### Day 98: June 13, 2020
+
+**Today's Progress**: Today I decided to figure out how many people saw the Star Wars movies by age group.
+
+**Thoughts**: It turned out that 45+ people didn't watch the first movie!
