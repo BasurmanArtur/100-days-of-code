@@ -635,3 +635,9 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: Today I decided to figure out how many people saw the Star Wars movies by age group.
 
 **Thoughts**: It turned out that 45+ people didn't watch the first movie!
+
+### Day 99: June 14, 2020
+
+**Today's Progress**: Today I figured out who shot first (Han or Greedo) according to different group ages. I also modified some of the old plots.
+
+**Thoughts**: Tomorrow I will finish the challenge! And I will also try my best to finish the Star Wars project. I have to write my thoughts on the challenge and my experience through it on the DataQuest forum.
