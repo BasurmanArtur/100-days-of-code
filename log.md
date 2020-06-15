@@ -641,3 +641,9 @@ Today I explored the dataset and did some initial cleaning. In this project, I'm
 **Today's Progress**: Today I figured out who shot first (Han or Greedo) according to different group ages. I also modified some of the old plots.
 
 **Thoughts**: Tomorrow I will finish the challenge! And I will also try my best to finish the Star Wars project. I have to write my thoughts on the challenge and my experience through it on the DataQuest forum.
+
+### Day 100: June 15, 2020
+
+**Today's Progress**: Today I finished the project and the #100DaysOfCode challenge!
+
+**Thoughts**: Incredible! I coded for 100 days and missed just 2 days, I will definitely take up this challenge again.
